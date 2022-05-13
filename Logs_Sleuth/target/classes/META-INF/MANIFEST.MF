@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Logs_Sleuth
+Implementation-Version: 1
+Built-By: Gurumurthy
+Implementation-Vendor-Id: com.microfocus
+Build-Jdk: 1.8.0_202
+Implementation-URL: http://projects.spring.io/spring-boot/Logs_Sleuth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
